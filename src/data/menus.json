@@ -1,3 +1,16 @@
 {
-  "main": []
+  "main": [
+    {
+      "identifier": "offering",
+      "title": "Range",
+      "url": "#",
+      "weight": 5
+    },
+    {
+      "identifier": "services",
+      "title": "Services",
+      "url": "/services",
+      "weight": 0
+    }
+  ]
 }
