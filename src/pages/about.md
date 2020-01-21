@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-img_path: /images/Passfoto.jpg
+img_path: /images/Luchs hergebeutelt-min.jpg
 menus:
   main:
     identifier: about_me
