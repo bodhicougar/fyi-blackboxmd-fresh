@@ -6,9 +6,9 @@ subtitle: >-
   and styles for your content.
 menus:
   main:
-    identifier: style_guide
+    identifier: about_me
     title: Style Guide
-    weight: 3
+    weight: ''
 template: page
 ---
 
