@@ -7,7 +7,7 @@ subtitle: >-
 menus:
   main:
     identifier: about_me
-    title: Style Guide
+    title: ''
     weight: ''
 template: page
 ---
