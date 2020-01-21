@@ -1,22 +1,3 @@
 {
-  "main": [
-    {
-      "identifier": "home_starter_services",
-      "title": "Services",
-      "url": "https://www.bbmediadesign.net/angebot/services/",
-      "weight": 6
-    },
-    {
-      "identifier": "home_starter_products",
-      "title": "Products",
-      "url": "https://www.bbmediadesign.net/angebot/produkte/",
-      "weight": 7
-    },
-    {
-      "identifier": "home_starter_tools",
-      "title": "Tools",
-      "url": "https://www.bbmediadesign.net/werkzeuge/",
-      "weight": 8
-    }
-  ]
+  "main": []
 }
