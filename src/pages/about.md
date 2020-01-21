@@ -6,7 +6,7 @@ menus:
   main:
     identifier: about_me
     title: About
-    weight: 4
+    weight: 2
 template: page
 ---
 
