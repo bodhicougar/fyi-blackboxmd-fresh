@@ -23,6 +23,11 @@
       "title": "GitHub",
       "icon": "fa-github",
       "url": "https://github.com/bodhicougar"
+    },
+    {
+      "title": "bbmediadesign",
+      "icon": "fa-web-site",
+      "url": "https://www.bbmediadesign.net/"
     }
   ]
 }
