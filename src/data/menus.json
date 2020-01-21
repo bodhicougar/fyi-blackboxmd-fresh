@@ -1,1 +1,16 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "home_starter_services",
+      "title": "Services",
+      "url": "home_starter",
+      "weight": 0
+    },
+    {
+      "identifier": "home_starter_products",
+      "title": "Products",
+      "url": "home_starter",
+      "weight": 1
+    }
+  ]
+}
