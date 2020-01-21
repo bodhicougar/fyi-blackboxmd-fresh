@@ -1,10 +1,10 @@
 {
-  "title": "Stackbit Fresh Theme",
-  "layout_style": "overflow",
-  "palette": "blue",
+  "title": "BlackBoxMediaDesign OÜ",
+  "layout_style": "default",
+  "palette": "green",
   "header": {
-    "title": "Stackbit Fresh",
-    "tagline": "Header Tagline",
+    "title": "Portfolio",
+    "tagline": "Cloud Solution Architect",
     "profile_img": "/images/BlackBoxMD_Logo.jpg",
     "bg": "dark",
     "has_nav": true,
