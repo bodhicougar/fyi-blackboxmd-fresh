@@ -2,9 +2,9 @@
 title: Blog
 menus:
   main:
-    identifier: blog
+    identifier: my_blog
     title: Blog
-    weight: 2
+    weight: 4
 template: blog
 ---
 
