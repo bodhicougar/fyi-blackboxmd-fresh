@@ -4,7 +4,7 @@
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
-      "url": "hhttps://www.linkedin.com/in/blackboxmd/?locale=en_US"
+      "url": "https://www.linkedin.com/in/blackboxmd/?locale=en_US"
     },
     {
       "type": "twitter",
@@ -20,7 +20,7 @@
     },
     {
       "title": "www",
-      "icon": "fa-info-circle",
+      "icon": "fa-globe",
       "url": "https://www.bbmediadesign.net/"
     },
     {
