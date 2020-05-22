@@ -16,12 +16,12 @@
       "type": "instagram",
       "title": "Instagram",
       "icon": "fa-instagram",
-      "url": "https://www.instagram.com/blackboxmediadesign/"
+      "url": "https://www.instagram.com/blackboxmd/"
     },
     {
-      "title": "Desktop",
-      "icon": "fa-arrow-alt-circle-up",
-      "url": "https://www.bbmediadesign.net/"
+      "title": "Youtube",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/channel/UCAGGws4s4OScQNlOCx2u0vQ"
     },
     {
       "type": "github",
