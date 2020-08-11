@@ -1,10 +1,10 @@
 {
-  "title": "BlackBoxMediaDesign OÜ",
+  "title": "BlackBoxMediaDesign",
   "layout_style": "overflow",
   "palette": "blue",
   "header": {
-    "title": "BlackBoxMediaDesign",
-    "tagline": "Web Strategist & Startup Angel",
+    "title": "Startup Guardian Angel & Web Strategist",
+    "tagline": "BlackBoxMediaDesign",
     "profile_img": "/images/BlackBoxMD_Logo.jpg",
     "bg": "dark",
     "has_nav": true,
